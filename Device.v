@@ -105,7 +105,6 @@ begin
 if (Frame) begin Frame_Flag = 1;  Data_num_reg = Data_num ; end
 end
 
-
 //------------------------------------------------------------Master Side---------------------------------------------------
 if ( Frame_Flag || Master)
 begin
